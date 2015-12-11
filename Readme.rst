@@ -10,7 +10,7 @@ Usage
 ------
 
 This `branch` contains sql files and sqlite database for Bible in
-English, Malayalam and Hindi.
+English, Malayalam, Hindi and Telugu.
 
 Users can clone this repo by typing :
 
@@ -21,6 +21,10 @@ Help, bugs, feedback
 	#. Users can mail their queries, feedback and suggestions at godlytalias@yahoo.co.in 
 	#. Developers/Contributor can raise issues at `issues <https://github.com/godlytalias/Bible-Database/issues>`_ or by `mail <mailto:godlytalias@yahoo.co.in>`_
 	#. Pull requests are most welcome, Please fix if any bugs found and push the patches.
+
+Credits
+-------
+  The databases are created by extracting data from `Wordproject® <http://wordproject.org>`_
 
 License
 -------
