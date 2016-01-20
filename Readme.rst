@@ -10,7 +10,13 @@ Usage
 ------
 
 This `branch` contains sql files and sqlite database for Bible in
-English, Malayalam, Hindi, Telugu and Tamil.
+these languages currently:
+   #. English
+   #. Malayalam
+   #. Hindi
+   #. Telugu
+   #. Tamil
+   #. Kannada.
 
 Users can clone this repo by typing :
 
