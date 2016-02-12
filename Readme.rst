@@ -17,6 +17,7 @@ these languages currently:
    #. Telugu
    #. Tamil
    #. Kannada.
+   #. Oriya
 
 Users can clone this repo by typing :
 
