@@ -11,13 +11,14 @@ Usage
 
 This `branch` contains sql files and sqlite database for Bible in
 these languages currently:
-   #. English
-   #. Malayalam
-   #. Hindi
-   #. Telugu
-   #. Tamil
-   #. Kannada.
-   #. Oriya
+   #. `English <https://github.com/godlytalias/Bible-Database/tree/master/English>`_
+   #. `Malayalam <https://github.com/godlytalias/Bible-Database/tree/master/Malayalam>`_
+   #. `Hindi <https://github.com/godlytalias/Bible-Database/tree/master/Hindi>`_
+   #. `Telugu <https://github.com/godlytalias/Bible-Database/tree/master/Telugu>`_
+   #. `Tamil <https://github.com/godlytalias/Bible-Database/tree/master/Tamil>`_
+   #. `Kannada <https://github.com/godlytalias/Bible-Database/tree/master/Kannada>`_
+   #. `Oriya <https://github.com/godlytalias/Bible-Database/tree/master/Oriya>`_
+   #. `Gujarati <https://github.com/godlytalias/Bible-Database/tree/master/Gujarati>`_
 
 Users can clone this repo by typing :
 
