@@ -19,6 +19,7 @@ these languages currently:
    #. `Kannada <https://github.com/godlytalias/Bible-Database/tree/master/Kannada>`_
    #. `Oriya <https://github.com/godlytalias/Bible-Database/tree/master/Oriya>`_
    #. `Gujarati <https://github.com/godlytalias/Bible-Database/tree/master/Gujarati>`_
+   #. `Bengali <https://github.com/godlytalias/Bible-Database/tree/master/Bengali>`_
 
 Users can clone this repo by typing :
 
