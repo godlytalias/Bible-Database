@@ -9,7 +9,7 @@ fixes found in the database files.
 Usage 
 ------
 
-This `branch` contains sql files and sqlite database for Bible in
+This `branch` contains sql files, sqlite database and JSON database for Bible in
 these languages currently:
    #. `English <https://github.com/godlytalias/Bible-Database/tree/master/English>`_
    #. `Malayalam <https://github.com/godlytalias/Bible-Database/tree/master/Malayalam>`_
