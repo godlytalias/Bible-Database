@@ -46,6 +46,26 @@ Below is a sample PHP code for fetching *John 3:16*;
 >>> echo $books->Book[42]->Chapter[2]->Verse[15]->Verse;
 >>> ?>
 
+*Javascript Example*
+
+>>> var bible;
+>>> function readJsonFile() {
+>>>     var rawFile = new XMLHttpRequest();
+>>>     rawFile.overrideMimeType("application/json");
+>>>     rawFile.onreadystatechange = function() {
+>>>         if (rawFile.readyState === 4 && rawFile.status == "200") {
+>>>             bible = JSON.parse(rawFile.responseText);
+>>>         }
+>>>     };
+>>>     rawFile.open("GET", "bible.json", true);
+>>>     rawFile.send();
+>>> }
+>>> 
+>>> function queryverse(book, chapter, verse)
+>>> {
+>>>    return bible.Book[book - 1].Chapter[chapter - 1].Verse[verse - 1].Verse;
+>>> }
+
 Users can clone this repo by typing :
 
    git clone https://github.com/godlytalias/Bible-Database.git
