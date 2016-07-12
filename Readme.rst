@@ -21,6 +21,31 @@ these languages currently:
    #. `Gujarati <https://github.com/godlytalias/Bible-Database/tree/master/Gujarati>`_
    #. `Bengali <https://github.com/godlytalias/Bible-Database/tree/master/Bengali>`_
 
+
+**SQL Database**
+
+SQL Database is having fields ``Book``, ``Chapter``, ``Versecount``
+which are of type INT and ``verse`` field which is VARCHAR.
+The Book field starts from 0 and Chapter & Versecount from 1.
+Below is a sample SQL query for fetching *John 3:16*
+
+``Select Book,Chapter,Versecount,verse from bible where Book=42 and Chapter=3 and Versecount=16;``
+
+
+**JSON Database**
+
+JSON Database have fields ``Verse`` & ``Verseid``. Verseid field is a unique id
+which is a comibination of Book + Chapter + Verse. First two digits represents Book(0 - 65),
+Second three digits represent Chapter and last three digits represent Verse.
+For JSON Database, Book, Chapter and Verse starts from 0.
+Below is a sample PHP code for fetching *John 3:16*;
+
+>>> <?php
+>>> $filecontent = file_get_contents("bible.json");
+>>> $books = json_decode($filecontent);
+>>> echo $books->Book[42]->Chapter[2]->Verse[15]->Verse;
+>>> ?>
+
 Users can clone this repo by typing :
 
    git clone https://github.com/godlytalias/Bible-Database.git
