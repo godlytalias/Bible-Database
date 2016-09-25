@@ -1,0 +1,12 @@
+Books[] = { "Genesise", "Eksodusi", "Levitikusi", "Numeri", "Duteronomi",
+            "Joshuwa", "AbAhluleli", "Ruthe", "1 Samuweli", "2 Samuweli",
+            "1 AmaKhosi", "2 AmaKhosi", "1 IziKronike", "2 IziKronike", "Ezra",
+            "Nehemiya", "Esteri", "Jobe", "AmaHubo", "IzAga", "UmShumayeli",
+            "IsiHlabelelo SeziHlabelelo", "Isaya", "Jeremiya", "IsiLilo",
+            "Hezekeli", "Daniyeli", "Hoseya", "Joweli", "Amose", "Obadiya",
+            "Jona", "Mika", "Nahume", "Habakuki", "Zefaniya", "Hagayi",
+            "Zakariya", "Malaki", "Mathewu", "Marku", "Luka", "Johane", "IzEnzo",
+            "AmaRoma", "1 Korinte", "2 Korinte", "Galathiya", "Efesu", "Filipi",
+            "Kolose", "1 Thesalonika", "2 Thesalonika", "1 Thimothewu", "2 Thimothewu",
+            "KuThithu", "KuFilemoni", "KumaHeberu", "EkaJakobe", "1 Petru", "2 Petru",
+            "1 Johane", "2 Johane", "3 Johane", "EkaJuda", "IsAmbulo", NULL };

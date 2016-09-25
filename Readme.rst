@@ -20,6 +20,7 @@ these languages currently:
    #. `Oriya <https://github.com/godlytalias/Bible-Database/tree/master/Oriya>`_
    #. `Gujarati <https://github.com/godlytalias/Bible-Database/tree/master/Gujarati>`_
    #. `Bengali <https://github.com/godlytalias/Bible-Database/tree/master/Bengali>`_
+   #. `Zulu <https://github.com/godlytalias/Bible-Database/tree/master/Zulu>`_
 
 
 **SQL Database**
