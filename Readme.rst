@@ -21,7 +21,7 @@ these languages currently:
    #. `Gujarati <https://github.com/godlytalias/Bible-Database/tree/master/Gujarati>`_
    #. `Bengali <https://github.com/godlytalias/Bible-Database/tree/master/Bengali>`_
    #. `Zulu <https://github.com/godlytalias/Bible-Database/tree/master/Zulu>`_
-   #. `Malay <https://github.com/godlytalias/Bible-Database/tree/master/Malay>`_
+   #. `Indonesian <https://github.com/godlytalias/Bible-Database/tree/master/Indonesian>`_
 
 
 **SQL Database**
