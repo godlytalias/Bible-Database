@@ -1,4 +1,4 @@
-Books[] = { "Genesi", "Ekisodo" "Lefitiko", "Numeri", "Doiterenomio", "Joshua", "Baahlodi", "Ruthe", "1 Samuele",
+Books[] = { "Genesi", "Ekisodo", "Lefitiko", "Numeri", "Doiterenomio", "Joshua", "Baahlodi", "Ruthe", "1 Samuele",
             "2 Samuele", "1 Dikgoši", "2 Dikgoši", "1 Dikoronika", "2 Dikoronika", "Esera", "Nehemia", "Esitere",
             "Jobo", "Dipisalome", "Diema", "Mmoledi", "Sefela sa difela", "Jesaya", "Jeremia", "Dillo tša Jeremia",
             "Hesekiele", "Daniele", "Hosea", "Joele", "Amosi", "Obadia", "Jona", "Mika", "Nahume",
