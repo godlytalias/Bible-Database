@@ -9,7 +9,7 @@ fixes found in the database files.
 Usage 
 ------
 
-This `branch` contains sql files, sqlite database and JSON database for Bible in
+This `branch` contains sql files, sqlite database XML and JSON database for Bible in
 these languages currently:
    #. `English <https://github.com/godlytalias/Bible-Database/tree/master/English>`_
    #. `Malayalam <https://github.com/godlytalias/Bible-Database/tree/master/Malayalam>`_
@@ -35,6 +35,13 @@ The Book field starts from 0 and Chapter & Versecount from 1.
 Below is a sample SQL query for fetching *John 3:16*
 
 ``Select Book,Chapter,Versecount,verse from bible where Book=42 and Chapter=3 and Versecount=16;``
+
+
+**XML Database**
+
+XML Database is having fields ``Book``, ``Chapter``, ``Verse``
+which are to having keys called 'id'.
+The Book id starts from 0 and Chapter & Verse from 1.
 
 
 **JSON Database**
