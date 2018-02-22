@@ -26,6 +26,7 @@ these languages currently:
    #. `Xhosa <https://github.com/godlytalias/Bible-Database/tree/master/Xhosa>`_
    #. `Afrikaans <https://github.com/godlytalias/Bible-Database/tree/master/Afrikaans>`_
    #. `Sepedi <https://github.com/godlytalias/Bible-Database/tree/master/Sepedi>`_
+   #. `Nepali <https://github.com/godlytalias/Bible-Database/tree/master/Nepali>`_
 
 
 **SQL Database**
